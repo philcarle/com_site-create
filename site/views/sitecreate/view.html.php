@@ -8,7 +8,7 @@ jimport('joomla.application.component.view');
 /**
  * View class for a list of Sitecreate.
  */
-class SitecreateViewSitecreates extends JView {
+class SitecreateViewSitecreate extends JView {
 
 
 }
